@@ -19,7 +19,7 @@ metadata:
     short: F
 assets:
   parts:
-  - {seq: 0, filename: KR6j0762_000-F.yaml, hash: 'sha256:d406435edea3a3e478b6f9f4bf3903913ee07127ab631c8f61aa33dd6734bfc5'}
+  - {seq: 0, filename: KR6j0762_000-F.yaml, hash: 'sha256:0f543008624c2509d61581b62a1c0c73c95eef7bc9cf7a34f082e9c38fc2d157'}
   - {seq: 1, filename: KR6j0762_001-F.yaml, hash: 'sha256:4ccc272cc7b477769ce1f21f92f0544bc668121db237be2db2bb81d1d8ce8660'}
   - {seq: 2, filename: KR6j0762_002-F.yaml, hash: 'sha256:8eba1f1e8b97494a5597ff10e00b0d7ba15dc8bd343e2bc90dfca28bc76e0938'}
   - {seq: 3, filename: KR6j0762_003-F.yaml, hash: 'sha256:5558ab130c550c4e45a4a5f47f72a321d3d1a62641d17a6f62f66d0e5b1cf55a'}
@@ -51,7 +51,7 @@ assets:
   - {seq: 29, filename: KR6j0762_029-F.yaml, hash: 'sha256:baa205e650d63ba4672c195411a9cd67bc4a76e72976ea8a594c11642d771cc1'}
   - {seq: 30, filename: KR6j0762_030-F.yaml, hash: 'sha256:86f3172de72d6dbaffaedf705e732050cba76f6b698495da35aecbda9a5de22e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0762_000-F.markers.yaml, hash: 'sha256:dec35365cfb19292c63e2a4f66ae6d6386544fbda303ba967abe0f2e964c471a'}
+  - {seq: 0, role: markers, filename: assets/KR6j0762_000-F.markers.yaml, hash: 'sha256:ece953b4951d513c3f37613f2b21bb8fa015ebc1d50dac99ae6dbc76e64705b5'}
   - {seq: 1, role: markers, filename: assets/KR6j0762_001-F.markers.yaml, hash: 'sha256:89f2ea5f5b9cc70ab4d41e318df4002613040788a070366b86ec06a190519988'}
   - {seq: 2, role: markers, filename: assets/KR6j0762_002-F.markers.yaml, hash: 'sha256:ea41347c2ffc70229f35db051098fc3898e0556b296b07081e1716e7aff0d453'}
   - {seq: 3, role: markers, filename: assets/KR6j0762_003-F.markers.yaml, hash: 'sha256:c3fa11bdc120bceb857228ca7b4e5849a974f403fbcd0ef8154ab6ecf4f6d2c1'}
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0762_F_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -8523,4 +8523,4 @@ table_of_contents:
   label: 大自在天陁羅尼
   type: mulu
   level: 1
-hash: sha256:94117933c4e152a96daae05c38d56df070071b8653f97336c2fbfa48cecbef01
+hash: sha256:49c01fe8600a6365a8114cde53fa1623ab7f5ef75e32b41e572622015056cf3d
